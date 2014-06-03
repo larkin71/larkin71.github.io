@@ -12,6 +12,7 @@ html {
 }
 body {
   margin: 0;
+  background-image: url(image/bg.jpg);
 }
 article,
 aside,
