@@ -3767,7 +3767,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-radius: 4px;
 }
 .navbar-toggle:focus {
-  outline: none;
+  outline: 1px;
 }
 .navbar-toggle .icon-bar {
   display: block;
