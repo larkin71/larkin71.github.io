@@ -146,3 +146,8 @@ body {
   }
 }
 .img-center {margin:0 auto;}
+@media (min-width:768px){
+  .img-center{
+    width:60%;
+  }
+}
