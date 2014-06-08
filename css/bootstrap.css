@@ -3762,7 +3762,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-right: 15px;
   margin-bottom: 8px;
   background-color: transparent;
-  background-image: glyphicon glyphicon-minus;
+  background-image: none;
   border: 1px solid #333;
   border-radius: 4px;
 }
