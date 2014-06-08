@@ -151,8 +151,9 @@ body {
   width: 100%;
 }
 .btn-header{
-  margin:0 auto !important;
-  width:60% !important;
+  display: block;
+  margin:0 auto;
+  width:60%;
   background-color: #2a6496;
   border:none;
   color: white;
