@@ -171,3 +171,6 @@ li.divider{
   height:2px;
   background-color: #333;
 }
+img.content{
+  vertical-align: top;
+}
