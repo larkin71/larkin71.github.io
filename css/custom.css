@@ -154,4 +154,7 @@ body {
   color: white;
   margin: 0 auto;
 }
+.panel{
+  background-color: #ddd;
+}
 
