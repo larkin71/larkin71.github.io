@@ -162,9 +162,8 @@ body {
 .panel{
   background-color: #eee;
 }
-.nav-school{
-  border-top:1px #eee;
-  border-bottom:1px #eee;
+.border-btn{
+  border-top:1px #333;
+  border-bottom:1px #333;
   border-radius: 0px;
-  
 }
