@@ -3773,7 +3773,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   display: block;
   width: 22px;
   height: 2px;
-  background-color: #eee;
+  background-color: #333;
   border-radius: 1px;
 }
 .navbar-toggle .icon-bar + .icon-bar {
