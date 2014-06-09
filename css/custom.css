@@ -153,8 +153,9 @@ body {
   border:none;
   color: white;
   margin: 0 auto;
+  padding:20px;
 }
 .panel{
-  background-color: #ddd;
+  background-color: #eee;
 }
 
