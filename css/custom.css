@@ -174,3 +174,6 @@ li.divider{
 img.content{
   vertical-align: top;
 }
+.verticalline_r{
+  border-right: thick solid #346ea9;
+}
