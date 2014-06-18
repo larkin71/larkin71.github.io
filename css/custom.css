@@ -175,5 +175,9 @@ img.content{
   vertical-align: top;
 }
 .verticalline_r{
-  border-right: thick solid #346ea9;
+  border-right: thick solid #5a5a5a;
+}
+.no-top-bot-pad{
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
