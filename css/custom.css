@@ -183,26 +183,6 @@ img.content{
   margin-top: 0px;
   margin-bottom: 0px;
 }
-#logo:hover {
-
-    background-image: url('images/pers_logo_dark_hover.png');
-}
-#twitter:hover {
-
-    background-image: url('images/Twitter.png');
-}
-#fb:hover {
-
-    background-image: url('images/Facebook.png');
-}
-#inst:hover {
-
-    background-image: url('images/Instagrampng');
-}
-#link:hover {
-
-    background-image: url('images/LinkedIn.png');
-}
 img.social{
   height:40px;
 }
