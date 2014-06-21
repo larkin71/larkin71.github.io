@@ -184,7 +184,7 @@ img.content{
   margin-bottom: 0px;
 }
 .5-pad{
-  margin-top: 5px;
+  margin-top: 5px !important; 
 }
 img.social{
   height:40px;
