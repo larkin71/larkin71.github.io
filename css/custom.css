@@ -87,6 +87,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
+  margin: 80px 0;
   background-color: #346ea9;
   height: 1px;
   border-radius: 5px; /* Space out the Bootstrap <hr> more */
