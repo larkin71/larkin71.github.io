@@ -178,6 +178,10 @@ img.content{
 .verticalline_r{
   border-right: thin solid #5a5a5a;
 }
+.vertline_r_gr{
+  border-right: thin solid #169e26;
+  padding-right:10px; 
+}
 .no-top-bot-pad{
   padding-bottom: 0px;
   padding-top: 0px;
