@@ -206,6 +206,8 @@ border-radius: 35px;
 .workr{
   padding:30px;
   padding-top:0px;
-  margin-top: 0px;
 
+}
+.notopmargin{
+  margin-top: 0px;
 }
