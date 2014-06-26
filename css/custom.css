@@ -196,6 +196,11 @@ img.social{
 text-align: center;
 padding-top:30px;
 }
+.workc{
+  border-right: thin solid #169e26;
+  padding-right:10px; 
+  min-height: 200px;
+}
 .workr{
   padding:30px;
 
