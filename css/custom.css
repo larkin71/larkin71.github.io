@@ -286,7 +286,7 @@ img.doings{
   border-radius: 20px;
 }
 footer{
-  color: #aaa;
+  color: #aaa !important;
   padding-top: 10px;
   padding-bottom: 10px;
   background-image: url(../images/wood.jpg);
