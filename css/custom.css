@@ -282,3 +282,7 @@ h1.headers{
 .metro:hover{
   background-size: 220px;
 }
+img.doings{
+  width:80px;
+  border-radius: 20px;
+}
