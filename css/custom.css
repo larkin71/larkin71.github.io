@@ -215,7 +215,7 @@ h1.headers{
   font-weight: 700;
 }
 .bbc{
-  
+
   background-image: url(../images/bbc.png);
   background-size: 200px;
   background-repeat: no-repeat;
@@ -224,8 +224,6 @@ h1.headers{
   transition: background-size 0.2s;
   transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
   display: inline-block;
-  width: 20px;
-  height: 30px;
   text-decoration: none;
   cursor: pointer;
 }
