@@ -223,6 +223,7 @@ h1.headers{
   background-clip: border-box;
   transition: background-size 0.2s;
   transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+  height:230px;
   display: inline-block;
   text-decoration: none;
   cursor: pointer;
