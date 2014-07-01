@@ -224,6 +224,7 @@ h1.headers{
   transition: background-size 0.2s;
   transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
   height:230px;
+  width: 200px;
   display: inline-block;
   text-decoration: none;
   cursor: pointer;
