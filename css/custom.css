@@ -297,3 +297,9 @@ footer > a,
 footer > li{
   color:#aaa;
 }
+a.page{
+  -webkit-transition: all .8s ease-in-out;
+    -moz-transition: all .8s ease-in-out;
+    -o-transition: all .8s ease-in-out;
+    transition: all .8s ease-in-out;
+}
