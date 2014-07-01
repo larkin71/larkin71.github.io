@@ -3,7 +3,6 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-bottom: 40px;
   color: #5a5a5a;
 }
 
@@ -287,8 +286,9 @@ img.doings{
   border-radius: 20px;
 }
 footer{
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 75px;
+  padding-bottom: 40px;
+  padding-left: 75px;
   background-image: url(../images/wood.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
