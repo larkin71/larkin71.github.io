@@ -231,3 +231,54 @@ h1.headers{
 .bbc:hover{
   background-size: 220px;
 }
+.inspire{
+  background-image: url(../images/inspire.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-clip: border-box;
+  transition: background-size 0.2s;
+  transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+  height:230px;
+  width: 230px;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+.inspire:hover{
+  background-size: 220px;
+}
+.ccig{
+  background-image: url(../images/ccig.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-clip: border-box;
+  transition: background-size 0.2s;
+  transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+  height:230px;
+  width: 230px;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+.ccig:hover{
+  background-size: 220px;
+}
+.metro{
+  background-image: url(../images/metro.png);
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-clip: border-box;
+  transition: background-size 0.2s;
+  transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+  height:230px;
+  width: 230px;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+.metro:hover{
+  background-size: 220px;
+}
