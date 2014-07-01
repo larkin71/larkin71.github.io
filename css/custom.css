@@ -286,6 +286,8 @@ img.doings{
   border-radius: 20px;
 }
 footer{
+  color: #aaa;
+  padding-top: 10px;
   padding-bottom: 10px;
   background-image: url(../images/wood.jpg);
   background-repeat: no-repeat;
