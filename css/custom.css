@@ -293,7 +293,7 @@ footer{
   background-repeat: no-repeat;
   background-size: 100%;
 }
-footer.a,
-footer.li{
+footer > a,
+footer > li{
   color:#aaa;
 }
