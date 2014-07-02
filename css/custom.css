@@ -195,6 +195,7 @@ img.social{
 text-align: center;
 margin-top:30px;
 border-radius: 35px;
+border-color: #169e26;
 }
 .workc{
   border-right: thin solid #169e26;
@@ -292,14 +293,4 @@ footer{
   background-image: url(../images/wood.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
-}
-footer > a,
-footer > li{
-  color:#aaa;
-}
-a.page{
-  -webkit-transition: all .8s ease-in-out;
-    -moz-transition: all .8s ease-in-out;
-    -o-transition: all .8s ease-in-out;
-    transition: all .8s ease-in-out;
 }
