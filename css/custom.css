@@ -294,3 +294,10 @@ footer{
   background-repeat: no-repeat;
   background-size: 100%;
 }
+.big{
+  font-size: 50px;
+}
+.quote{
+  font-size: 50px;
+  color: #346ea9;
+}
