@@ -294,6 +294,11 @@ footer{
   background-repeat: no-repeat;
   background-size: 100%;
 }
+@media (max-width: 1000px) {
+  footer {
+    background-image: url(../images/wood_sm.png);
+  }
+}
 .big{
   font-size: 50px;
   color: #346ea9;
