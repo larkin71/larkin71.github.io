@@ -294,7 +294,7 @@ footer{
   background-repeat: no-repeat;
   background-size: 100%;
 }
-@media (max-width: 1000px) {
+@media (max-width: 700px) {
   footer {
     background-image: url(../images/wood_sm.png);
     background-repeat: repeat;
