@@ -298,15 +298,8 @@ footer{
   font-size: 50px;
   color: #346ea9;
 }
-.quotel{
-  float: right;
-  font-size: 150px;
-  font-style: bold;
-  color: #346ea9;
-}
-.quoter{
-  float: left;
-  font-size: 150px;
-  font-style: bold;
+.quote{
+  font-size: 50px;
+  margin-top: 50px;
   color: #346ea9;
 }
