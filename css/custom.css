@@ -301,3 +301,7 @@ footer{
 .quotes{
   font-size: 50px;
 }
+.source{
+  color: #999999;
+  font-style: italic;
+}
