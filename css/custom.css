@@ -306,3 +306,7 @@ footer{
   color: #999999;
   font-style: italic;
 }
+a.text-link{
+  color: #5a5a5a;
+  font-style: italic;
+}
