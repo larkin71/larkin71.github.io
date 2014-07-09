@@ -321,3 +321,8 @@ footer{
 a.text-link{
   color: #aaa;
 }
+@media (min-width: 700px){
+  .footer-space{
+    margin-top: 100px;
+  }
+}
