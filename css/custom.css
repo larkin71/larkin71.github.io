@@ -161,9 +161,21 @@ body {
   font-size: 30px;
   letter-spacing: 2px;
 }
+
 .btn-header:hover{
   color: white;
   cursor: default;
+}
+.btn-doc{
+  display: block;
+  width:80%;
+  background-color: #346ea9;
+  border:none;
+  color: white;
+  margin: 0 auto;
+  padding:20px;
+  font-size: 30px;
+  letter-spacing: 2px;
 }
 .panel{
   background-color: #eee;
