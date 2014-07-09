@@ -161,6 +161,10 @@ body {
   font-size: 50px;
   letter-spacing: +5;
 }
+.btn-header:hover{
+  color: white;
+  cursor: default;
+}
 .panel{
   background-color: #eee;
 }
