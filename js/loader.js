@@ -1,3 +1,6 @@
+window.addEventListener('DOMContentLoaded', function() {
+    $("body").queryLoader2();
+});
 $(document).ready(function () {
     $("body").queryLoader2({
         barColor: "#f5f6f0",
@@ -7,7 +10,4 @@ $(document).ready(function () {
         completeAnimation: "grow",
         minimumTime: 50
     });
-});
-window.addEventListener('DOMContentLoaded', function() {
-    $("body").queryLoader2();
 });
