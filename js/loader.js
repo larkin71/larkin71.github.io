@@ -5,6 +5,6 @@ $(document).ready(function () {
         percentage: true,
         barHeight: 1,
         completeAnimation: "fade",
-        minimumTime: 100
+        minimumTime: 50
     });
 });
