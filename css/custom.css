@@ -215,7 +215,7 @@ margin-top:30px;
 border-radius: 35px;
 border-color: #169e26;
 }
-@media (max-width: 850px) {
+@media (max-width: 700px) {
   .workl {
     margin-left: 50px;
     margin-right: 50px;
