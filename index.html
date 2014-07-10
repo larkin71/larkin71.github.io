@@ -12,6 +12,8 @@
     <meta property=”og:image” content=”images/personalheader_new.png”/>
     <link rel="shortcut icon" href="images/Personal_Logo_Icon.ico">
     <title>Jake Larkin</title>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.queryloader2.js" type="text/javascript"></script>
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Dosis:400,700%7CBitter:400,400italic,700&amp;subset=latin,latin">
@@ -27,6 +29,9 @@
     
     </script>
   </head>
+  $(document).ready(function () {
+    $("body").queryLoader2();
+});
 <!-- NAVBAR
 ================================================== -->
   <body>
@@ -502,7 +507,6 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/docs.min.js"></script>
   </body>
