@@ -22,7 +22,7 @@ layout: default
       <div id="post-nav" class="text-center" style="margin-bottom:50px;">
         {% if page.previous.url %} 
           <a class="prev post-link" href="{{page.previous.url}}"><span class="glyphicon glyphicon-circle-arrow-left"></span> {{page.previous.title}}</a> 
-        {% endif %}   |  
+        {% endif %} {% if page.previous %}{% if page.next %}   |  {% endif %}{% endif %}
         {% if page.next.url %} 
           <a class="next post-link" href="{{page.next.url}}">{{page.next.title}} <span class="glyphicon glyphicon-circle-arrow-right"></span></a> 
         {% endif %} 
