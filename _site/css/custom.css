@@ -354,6 +354,7 @@ a.text-link{
 .email-btn{
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+  background: transparent;
 }
 .post-link:hover{
   text-decoration: none;
@@ -364,4 +365,26 @@ a.text-link{
 }
 .post-content{
   margin-bottom: 100px;
+}
+.post-heading-img{
+  margin-bottom: 50px;
+  max-width:100%;
+}
+.back-blog-btn{
+  width: 100px;
+  background: transparent;
+}
+.back-blog-btn:hover{
+  width: 100px;
+  transition: background-color 0.5s;
+  background-color: #346ea9;
+  color: white;
+}
+.email-input{
+  background: transparent;
+} 
+input[type=email]:focus, textarea:focus {
+  transition:background-color 0.4s;
+  background-color: #346ea9;
+  color: white;
 }

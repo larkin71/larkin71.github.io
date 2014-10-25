@@ -4,8 +4,10 @@ title:  "Second Blog Post"
 author: "Jake Larkin"
 date:   2014-10-25 01:13:39
 categories: blog update tech
+heading_image: /images/posts/test.jpg
+tags: Life 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+Lorem ipsum dolor sitamet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse

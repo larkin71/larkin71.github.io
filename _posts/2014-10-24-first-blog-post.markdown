@@ -4,6 +4,7 @@ title:  "First Blog Post"
 author: "Jake Larkin"
 date:   2014-10-24 23:33:39
 categories: blog update
+tags: Life
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 

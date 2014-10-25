@@ -6,13 +6,13 @@
 </description>
     <link>http://jakelarkin.co/</link>
     <atom:link href="http://jakelarkin.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Oct 2014 13:57:09 -0400</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2014 13:57:09 -0400</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2014 15:15:18 -0400</pubDate>
+    <lastBuildDate>Sat, 25 Oct 2014 15:15:18 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Second Blog Post</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        <description>&lt;p&gt;Lorem ipsum dolor sitamet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -29,6 +29,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
         <pubDate>Fri, 24 Oct 2014 21:13:39 -0400</pubDate>
         <link>http://jakelarkin.co/blog/update/tech/2014/10/24/second-blog-post.html</link>
         <guid isPermaLink="true">http://jakelarkin.co/blog/update/tech/2014/10/24/second-blog-post.html</guid>
+        
+        <category>Life</category>
         
         
         <category>blog</category>
@@ -59,6 +61,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
         <pubDate>Fri, 24 Oct 2014 19:33:39 -0400</pubDate>
         <link>http://jakelarkin.co/blog/update/2014/10/24/first-blog-post.html</link>
         <guid isPermaLink="true">http://jakelarkin.co/blog/update/2014/10/24/first-blog-post.html</guid>
+        
+        <category>Life</category>
         
         
         <category>blog</category>
