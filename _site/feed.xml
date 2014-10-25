@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jake Larkin</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>This is Jake Larkin&#39;s personal website and blog.
 </description>
     <link>http://jakelarkin.co/</link>
     <atom:link href="http://jakelarkin.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Oct 2014 18:10:15 -0400</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2014 18:10:15 -0400</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2014 18:53:14 -0400</pubDate>
+    <lastBuildDate>Sat, 25 Oct 2014 18:53:14 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
