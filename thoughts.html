@@ -5,22 +5,27 @@ layout: default
 
     <div class="container marketing">
     <div class="row featurette">
-        <div class="col-lg-12">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
           <h1 class="big">My Thoughts</h1>
           <h2>I share with you my thoughts on life and anything that I deem valuable in my world. I welcome you to tag along.</h2>
         </div>
     </div>
     <hr class="featurette-divider">
       {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
-        <article class="post-content">
-	    	{{ post.content }}
-	  	</article>
-      </li>
+      <div class="row featurette">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
+          <h2 class="text-center">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <h4 class="text-center post-date">{{ post.date | date: "%B %e, %Y" }}</h4><br>
+  	    	{{ post.excerpt }}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          <br><br>
+          <div class="text-center"><p><span class="glyphicon glyphicon-pencil"></span>{% if post.author %} {{ post.author }}{% endif %}</p></div>
+          <hr class="featurette-divider">
+        </div>
+      </div>
       {% endfor %}
     
 

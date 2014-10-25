@@ -346,4 +346,22 @@ footer{
 a.text-link{
   color: #aaa;
 }
-
+.email-btn:hover{
+  transition: background-color 0.5s;
+  background-color: #346ea9;
+  color: white;
+}
+.email-btn{
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.post-link:hover{
+  text-decoration: none;
+  transition: color 0.4s;
+}
+.post-date{
+  font-size: 14px;
+}
+.post-content{
+  margin-bottom: 100px;
+}

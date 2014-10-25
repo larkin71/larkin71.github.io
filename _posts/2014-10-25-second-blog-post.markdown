@@ -3,7 +3,7 @@ layout: post
 title:  "Second Blog Post"
 author: "Jake Larkin"
 date:   2014-10-25 01:13:39
-categories: blog update
+categories: blog update tech
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
