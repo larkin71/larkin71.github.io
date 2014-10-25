@@ -1,0 +1,40 @@
+╱╱╭╮╱╱╭╮╱╱╱╱╱  ╭╮╱╱╱╱╱╱╱╭╮
+╱╱┃┃╱╱┃┃╱╱╱╱╱  ┃┃╱╱╱╱╱╱╱┃┃
+╱╱┃┣━━┫┃╭┳━━╮  ┃┃╱╱╭━━┳━┫┃╭┳┳━╮
+╭╮┃┃╭╮┃╰╯┫┃━┫  ┃┃╱╭┫╭╮┃╭┫╰╯╋┫╭╮╮
+┃╰╯┃╭╮┃╭╮┫┃━┫  ┃╰━╯┃╭╮┃┃┃╭╮┫┃┃┃┃
+╰━━┻╯╰┻╯╰┻━━╯  ╰━━━┻╯╰┻╯╰╯╰┻┻╯╰╯
+ Hand-crafted in 2014
+
+
+    The humans.txt file explains the technology and graphic assets 
+    behind this site.
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Sublime Text
+http://www.sublimetext.com/
+
+jQuery
+http://jquery.com/
+
+Bootstrap
+http://getbootstrap.com/
+
+Github
+https://github.com/
+
+_______________________________________________________________________________
+
+GRAPHIC ASSETS
+
+Brandon Grotesque (font)
+https://typekit.com/fonts/brandon-grotesque
+
+Google Font (font)
+http://www.google.com/fonts
+
+Glyphicons (icons)
+http://glyphicons.com/
