@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Third Blog Post"
+title:  "Third Blog Post - TEST"
 author: "Jake Larkin"
 date:   2014-10-26 13:13:39
 categories: blog update tech
