@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Blog Post - TEST"
+title:  "The College Entrepreneur"
 author: "Jake Larkin"
-date:   2014-10-24 23:33:39
+date:   2014-10-27 15:33:39
 categories: blog update
 tags: Life
 ---
