@@ -21,6 +21,8 @@ Whoops. I just spoiled the meaning of the title, but he does this on page 1, so 
 ## 2. Start Small and Monopolize
 > _"Dominate a small niche and scale up from there, toward your ambitious long-term vision"_  
 
-This one is pretty apparent throughout the entire text. Imagine that you are the person that invented ![this thing](/images/posts/pillow_head.jpg). 
+This one is pretty apparent throughout the entire text. Imagine that you are the person that invented 
+
+->![this thing](/images/posts/pillow_head.jpg) <-
 
 Now, you may be thinking to yourself, "Self, this thing is going to practically sell itself! Here comes my first billion!" I love the enthusiasm, but what's the market? You're cuckoo to think "anyone who sleeps on a plane" is actually a valid answer. I'd rather hear you say that you are going to sell it to your dad and your crazy uncle because neither one of them care what other people think of them in public. Start small. Validate that people actually crave your product and scale accordingly!
