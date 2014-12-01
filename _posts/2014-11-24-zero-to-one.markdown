@@ -68,3 +68,4 @@ Thiel boils down his experience into seven critical questions that he investigat
 
 
 
+  
