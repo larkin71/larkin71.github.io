@@ -6,32 +6,38 @@
 </description>
     <link>http://jakelarkin.co/</link>
     <atom:link href="http://jakelarkin.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Oct 2014 15:29:01 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2014 15:29:01 -0400</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2014 02:33:26 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2014 02:33:26 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
+        <title></title>
+        <description>&lt;p&gt;I was slightly skeptical when I first saw Peter Thiel’s Zero To One pop up on the pre-order list on my ever-growing Amazon suggested purchases list. I knew Peter Thiel as one of the master minds included in the PayPal Mafia and even moreso as an early investor in Facebook, so I assumed that the book would be full of “silicon-valley this” and “san-fransico that” and plenty of other technical startup mumbo jumbo (is this a real phrase?) that fills the headlines of Tech blogs and Entrepreneurship magazines. I severely underestimated Mr. Thiel.&lt;/p&gt;
+
+&lt;p&gt;Zero To One was &lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Nov 2014 17:33:39 -0500</pubDate>
+        <link>http://jakelarkin.co/blog/update/2014/11/24/zero-to-one.html</link>
+        <guid isPermaLink="true">http://jakelarkin.co/blog/update/2014/11/24/zero-to-one.html</guid>
+        
+        <category>Books,</category>
+        
+        <category>Startups</category>
+        
+        
+        <category>blog</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
         <title>The College Entrepreneur</title>
-        <description>&lt;p&gt;Filler Text - Blog updates to come…Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;https://www.youtube.com/watch?v=hgPofDZsicQ
+-Recaps a ton of scientists and what they pioneered&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;-Albert Einstein 1917 discovered The Stimulated Emission of Radiation, also known as the foundation for lasers. It’s not like he was thinking, Barcodes!! Tattoo removal!
+-Who leads the world-people who invest in STEM&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Oct 2014 11:33:39 -0400</pubDate>
         <link>http://jakelarkin.co/blog/update/2014/10/27/first-blog-post.html</link>
@@ -48,26 +54,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
       <item>
         <title>Fourth Blog Post - TEST</title>
-        <description>&lt;p&gt;Filler Text - Blog updates to come…Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;-Thoughts on life automation - Siri use, Amazon thingy
+-You must remove some tea before you can add any more&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Oct 2014 08:33:39 -0400</pubDate>
         <link>http://jakelarkin.co/blog/update/2014/10/27/fourth-blog-post.html</link>
@@ -84,19 +72,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
       <item>
         <title>Third Blog Post - TEST</title>
-        <description>&lt;p&gt;Filler Text - Blog updates to come…Lorem ipsum dolor sitamet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;-Lessons in leadership&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Oct 2014 09:13:39 -0400</pubDate>
         <link>http://jakelarkin.co/blog/update/tech/2014/10/26/third-blog-post.html</link>
@@ -115,19 +91,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
       <item>
         <title>Second Blog Post - TEST</title>
-        <description>&lt;p&gt;Filler Text - Blog updates to come…Lorem ipsum dolor sitamet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;-Startup life at Ohio State&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Oct 2014 06:13:39 -0400</pubDate>
         <link>http://jakelarkin.co/blog/update/tech/2014/10/25/second-blog-post.html</link>
