@@ -46,8 +46,7 @@ It's a cliché that startup employees wear the same logo-plastered t-shirts to w
 
 All through engineering schoool, I heard jokes about students who chose to pursue a business degree instead of an engineering degree. 
 
-{:.center}
-![Sales](/images/posts/sales.jpg)
+<div class="InPostImage"><img src="/images/posts/sales.jpg"></div>
 
 To one extent, it is true - an engineering degree may take more hours cracking the books, but that has nothing to do with the relative skills required for generating value. As an engineer, you have the ability to judge another person's work by simply evaluating if it works. It's binary. Sales is quite the opposite - forging the surface appearance without ever changing the fundamental product. An engineer understands that their job is difficult and requires a lot of hours, so overhearing that the sales team took a client out to a three-hour dinner with drinks afterwards may be a bit frustrating. It may even seem like a waste of time. Thiel nails it when he says, "What nerds miss is that it takes hard work to make sales look easy."
 
@@ -65,8 +64,8 @@ Thiel boils down his experience into seven critical questions that he investigat
 * The Secret Question: _Have you identified a unique opportunity that others don't see?_
 
 
-.center {
-  text-align: center;
+.InPostImage {
+	text-align: center;
 }
 
 
