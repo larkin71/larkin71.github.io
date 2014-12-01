@@ -5,7 +5,7 @@ author: "Jake Larkin"
 date:   2014-11-24 22:33:39
 categories: blog update
 heading_image: /images/posts/zero_to_one_1.jpg
-tags: Books, Startups
+tags: Books,Startups
 ---
 I was slightly skeptical when I first saw Peter Thiel's Zero To One pop up on the pre-order list on my ever-growing Amazon suggested purchases list. I knew Peter Thiel as one of the master minds included in the PayPal Mafia and even more so as an early investor in Facebook, so I assumed that the book would be full of "silicon-valley this" and "san-fransico that" and plenty of other technical startup mumbo jumbo (is this a real phrase?) that fills the headlines of Tech blogs and Entrepreneurship magazines. I underestimated Mr. Thiel.  
 
@@ -34,17 +34,17 @@ Name that entrepreneur!
 
 <div style="text-align:center; margin:50px;"><img src="/images/posts/mark.jpg" style="max-width:600px;"></div>
 
-Yup, it was Mark Zuckerberg. In July 2006, Yahoo! offered to buy Facebook for $1 Billion. That's 1000 Million Dollars...for a website that you likely didn't even know about in 2006. Mark assembled his board members for a meeting to announce that there was now way that they were selling Facebook. Every investor in the room wanted him to at lease consider the opportunity, but Mark instinctively knew that $1B was not even close to what Facebook could become in the coming years. A founder only sells their business when they have no more concrete visions for the company. As of November 2014, Facebook is worth $201 Billion. Mark knew was he was doing.
+Yup, it was Mark Zuckerberg. In July 2006, Yahoo! offered to buy Facebook for $1 Billion. That's 1000 Million Dollars...for a website that you likely didn't even know about in 2006. Mark assembled his board members for a meeting to announce that there was now way that they were selling Facebook. Every investor in the room wanted him to at least consider the opportunity, but Mark instinctively knew that $1B was not even close to what Facebook could become in the coming years. A founder only sells their business when they have no more concrete visions for the company. As of November 2014, Facebook is worth $201 Billion. Mark knew was he was doing.
 
 ## 4. The Mechanics of Mafia
 >_"The startup uniform encapsulates a simple but essential principle: everyone at your company should be different in the same way - a tribe of like-minded people fiercely devoted to the company's mission."_
 
-It's a cliché that startup employees wear the same logo-plastered t-shirts to work and around town, but the true meaning of that is much deeper. It may sound odd, but people's passions come through in their fasion. For your startup to work, every person you bring on board has to be equally obsessed with what you are building. This may sound sort of Jim Jones cult-_ish_, but there's something to be said about a startup that only hires people completely intoxicated by the company. The only difference is that cults tend to be fanatically _wrong_ about something, while a startup is fanatically _right_ about something. I get a very similar feeling when I see another Ohio State student on campus wearing a Business Builders Club t-shirt!
+It's a cliché that startup employees wear the same logo-plastered t-shirts to work and around town, but the true meaning of that is much deeper. It may sound odd, but people's passions come through in their fasion. For your startup to work, every person you bring on board has to be equally obsessed with what you are building, which will be obvious when you walk in the work space and see everyone sporting their favorite company hoodie or t-shirt. This may sound sort of Jim Jones cult-_ish_, but there's something to be said about a startup that only hires people completely intoxicated by the company. The only difference is that cults tend to be fanatically _wrong_ about something, while a startup is fanatically _right_ about something. I get a very similar feeling when I see another Ohio State student on campus wearing a Business Builders Club t-shirt!
 
 ## 5. Sales Is Hidden
 > _"If you don't know any grandmaster salesmen, it's not because you haven't encountered them, but rather because their art is hidden in plain sight."_
 
-All through engineering schoool, I heard jokes about students who chose to pursue a business degree instead of an engineering degree. 
+All through engineering school, I heard jokes about students who chose to pursue a business degree instead of an engineering degree. 
 
 <div style="text-align:center; margin:50px;"><img src="/images/posts/sales.jpg" style="max-width:600px;"></div>
 
