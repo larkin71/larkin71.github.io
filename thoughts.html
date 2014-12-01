@@ -23,7 +23,7 @@ layout: default
           {% if post.heading_image %}<img src="{{ post.heading_image }}" class="post-heading-img">{% endif %}
   	    	{{ post.excerpt }}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
           <br><br>
-          <div class="text-center"><p><span class="glyphicon glyphicon-pencil"></span>{% if post.author %} {{ post.author }}{% endif %}  | {{ post.tags }}</p></div>
+          <div class="text-center"><p><span class="glyphicon glyphicon-pencil"></span>{% if post.author %} {{ post.author }}{% endif %}  | {% for tag in post.tags %} {{ post.tags }}, </p></div>
           <hr class="featurette-divider">
         </div>
       </div>
