@@ -21,7 +21,7 @@ Whoops. I just spoiled the meaning of the title, but he does this on page 1, so 
 ## 2. Start Small and Monopolize
 > _"Dominate a small niche and scale up from there, toward your ambitious long-term vision"_  
 
-This one is pretty apparent throughout the entire text. Imagine that you are the person that invented 
+This one is pretty apparent throughout the entire text. Imagine that you are the person that invented this thing  
 
 <div style="text-align:center"><img src="/images/posts/pillow_head.jpg"></div>
 
