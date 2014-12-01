@@ -23,7 +23,7 @@ Whoops. I just spoiled the meaning of the title, but he does this on page 1, so 
 
 This one is pretty apparent throughout the entire text. Imagine that you are the person that invented this thing  
 
-<div style="text-align:center; margin:50px;"><img src="/images/posts/pillow_head.jpg" style="max-width:600px;"></div>
+<div style="text-align:center; margin-bottom:50px; margin-top:50px;"><img src="/images/posts/pillow_head.jpg" style="max-width:50%;"></div>
 
 Now, you may be thinking to yourself, "Self, this thing is going to practically sell itself! Here comes my first billion!" I love the enthusiasm, but what's the market? You're cuckoo to think "anyone who sleeps on a plane" is actually a valid answer. I'd rather hear you say that you are going to sell it to your dad and your crazy uncle because neither one of them care what other people think of them in public. Start small. Prove that people actually crave your product and scale accordingly!
 
@@ -32,7 +32,7 @@ Now, you may be thinking to yourself, "Self, this thing is going to practically 
 
 Name that entrepreneur! 
 
-<div style="text-align:center; margin:50px;"><img src="/images/posts/mark.jpg" style="max-width:600px;"></div>
+<div style="text-align:center; margin-bottom:50px; margin-top:50px;"><img src="/images/posts/mark.jpg" style="max-width:50%;"></div>
 
 Yup, it was Mark Zuckerberg. In July 2006, Yahoo! offered to buy Facebook for $1 Billion. That's 1000 Million Dollars...for a website that you likely didn't even know about in 2006. Mark assembled his board members for a meeting to announce that there was now way that they were selling Facebook. Every investor in the room wanted him to at least consider the opportunity, but Mark instinctively knew that $1B was not even close to what Facebook could become in the coming years. A founder only sells their business when they have no more concrete visions for the company. As of November 2014, Facebook is worth $201 Billion. Mark knew was he was doing.
 
