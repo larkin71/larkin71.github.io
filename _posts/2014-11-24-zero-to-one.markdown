@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Going From Zero to One"
 author: "Jake Larkin"
 date:   2014-11-24 22:33:39
 categories: blog update
