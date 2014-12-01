@@ -62,3 +62,9 @@ Thiel boils down his experience into seven critical questions that he investigat
 * The Distribution Question: _Do you have a way to not just create but deliver your product?_
 * The Durability Question: _Will your market position be defensible 10 and 20 years into the future?_
 * The Secret Question: _Have you identified a unique opportunity that others don't see?_
+
+
+
+
+
+
