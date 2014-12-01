@@ -7,9 +7,9 @@ categories: blog update
 heading_image: /images/posts/zero_to_one_1.jpg
 tags: Books, Startups
 ---
-I was slightly skeptical when I first saw Peter Thiel's Zero To One pop up on the pre-order list on my ever-growing Amazon suggested purchases list. I knew Peter Thiel as one of the master minds included in the PayPal Mafia and even more so as an early investor in Facebook, so I assumed that the book would be full of "silicon-valley this" and "san-fransico that" and plenty of other technical startup mumbo jumbo (is this a real phrase?) that fills the headlines of Tech blogs and Entrepreneurship magazines. I underestimated Mr. Thiel.
+I was slightly skeptical when I first saw Peter Thiel's Zero To One pop up on the pre-order list on my ever-growing Amazon suggested purchases list. I knew Peter Thiel as one of the master minds included in the PayPal Mafia and even more so as an early investor in Facebook, so I assumed that the book would be full of "silicon-valley this" and "san-fransico that" and plenty of other technical startup mumbo jumbo (is this a real phrase?) that fills the headlines of Tech blogs and Entrepreneurship magazines. I underestimated Mr. Thiel.  
 
-Zero To One captured the essence of why the PayPal mafia was so successful without hammering too many PayPal specific elements. Thiel delivers just under 200 pages of forceful and crisp thoughts surrounding the true meaning of value generation. Most importantly, he opens up the economics book and discusses the impact startups have on the community we are building. 
+Zero To One captured the essence of why the PayPal mafia was so successful without hammering too many PayPal specific elements. Thiel delivers just under 200 pages of forceful and crisp thoughts surrounding the true meaning of value generation. Most importantly, he opens up the economics book and discusses the impact startups have on the community we are building.  
 
 I have snagged a few quotes from Thiel and share my own commentary on them. 
 
