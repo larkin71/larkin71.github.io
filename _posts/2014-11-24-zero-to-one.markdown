@@ -54,6 +54,7 @@ To one extent, it is true - an engineering degree may take more hours cracking t
 >  _"If you're at Tesla, you're choosing to be at the equivalent of Special Forces. There's the regular army, and that's fine, but if you are working at Tesla, you're choosing to step up your game."_
 
 Thiel boils down his experience into seven critical questions that he investigates before any investment breaks his wallet. I will leave you with those seven questions:
+
 * The Engineering Question: _Can you create breakthrough technology instead of incremental improvements?_
 * The Timing Question: _Is now the right time to start your particular businss?_
 * The Monopoly Question: _Are you starting with a big share of a small market?_
