@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The College Entrepreneur"
+title:  "So why are you getting your masters...?"
 author: "Jake Larkin"
-date:   2014-10-27 15:33:39
+date:   2014-12- 15:33:39
 categories: blog update
 tags: Life
 ---
