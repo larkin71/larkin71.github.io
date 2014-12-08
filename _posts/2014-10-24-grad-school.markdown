@@ -4,7 +4,7 @@ title:  "Wait, why are you in grad school?"
 author: "Jake Larkin"
 date:   2014-12-8 15:33:39
 categories: blog update
-heading_image: /images/posts/grad1.jpg
+heading_image: /images/posts/grad1.jpeg
 tags: Life
 ---
 Why? It's the toughest of the 6 iterrogative words, but it's the most important one to understand. The answer, whether realistic or not, provides a backbone to all difficult life decisions. It's the one answer that you can firmly stand your ground with. And it's the answer that ultimately makes up your mind.  
