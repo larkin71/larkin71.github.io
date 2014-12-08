@@ -24,29 +24,29 @@ Everything that I was enfatuated with pointed me towards entrepreneurship. The o
 
 If you are reading this article, you and I likely have a shared interest in apps, startups or entrepreneruship. Since you have made it this far, I assume something I said has resonated with you. I want to dismantle some often proclaimed reasons to work in a startup.
 
-## _You will be über rich_ 
+## _1. You will be über rich_ 
 
 No, no, no. Nonsense. Is there potential for wealth in the future? Maybe. But that will come in the form of value creation and that takes time. In order to get anywhere with a startup, you have to be comfortable without a salary. 
 
-## _Setting your own schedule. Hooray!_
+## _2. Setting your own schedule. Hooray!_
 
 You do get to pick your own schedule! Take any given day and choose which 14 hours you want to work! If you are starting your own business because you don't like waking up early, then you'd be better off looking for a night shift. It's not about the schedule.
 
-## _Be your own boss_
+## _3. Be your own boss_
 
 Well, yeah. You may be at the top of the leadership chain, but you can never avoid the feeling of someone telling you what to do. Whether it is your customer, your employees, your investors, or your mom...there will be someone telling you that you are wrong and that you need to do better. 
 
 More importantly, I want to share why I have decided to ignore my aerospace degree and work at a startup
 
-## _The product_
+## _1. The product_
 
 At Designli, we are bringing the joy of launching a fully developed app to customers that would have previously never been able to see their dreams built. Involving the customer in the process and helping them shape their idea into a tangible design. We are empowering customers to create something magical. It's an exciting environment. 
 
-## _The process_
+## _2. The process_
 
 When you work at a company with 100,000+ employees under it's belt, it's only natural that you will be placed into a silo pertaining to one task or a set of responsibilites. For some, this is powerful because they can hone their skill and become the master of their craft, but I honestly could not pick a single skill that I would ever be comfortable doing that with. At a startup, you are not responsible for a task, but moreso an outcome. However that outcome is built will be up to you. Chase it until you can't chase anymore. 
 
-## _The people_
+## _3. The people_
 
 There is something about entrepreneurs. An intangible, unexplainable passion for what they do and how they are going to get it done. How they are going change the world. Back in the fall, the Designli team took a visit down to Greenville, South Carolina to find a place to set-up shop and it was the first time everyone was in the same room. The conversations between these friends were no longer about sports or getting drunk at a bar, but about how the world will look in 20 years and where we will be. These are the visionaries that I want to be around. The real **movers and shakers**.
 
@@ -55,7 +55,7 @@ There is something about entrepreneurs. An intangible, unexplainable passion for
 Always ask why. It's your backbone. I'll leave you with this quote.
 
 > _"If you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it.
--Frank Zapp"_
+-Frank Zappa"_
 
 
 https://www.youtube.com/watch?v=hgPofDZsicQ
