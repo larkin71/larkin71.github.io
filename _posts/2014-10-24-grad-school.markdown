@@ -4,6 +4,7 @@ title:  "Wait, why are you in grad school?"
 author: "Jake Larkin"
 date:   2014-12-8 15:33:39
 categories: blog update
+heading_image: /images/posts/grad1.jpg
 tags: Life
 ---
 Why? It's the toughest of the 6 iterrogative words, but it's the most important one to understand. The answer, whether realistic or not, provides a backbone to all difficult life decisions. It's the one answer that you can firmly stand your ground with. And it's the answer that ultimately makes up your mind.  
@@ -58,8 +59,3 @@ Always ask why. It's your backbone. I'll leave you with this quote.
 -Frank Zappa"_
 
 
-https://www.youtube.com/watch?v=hgPofDZsicQ
--Recaps a ton of scientists and what they pioneered
-
--Albert Einstein 1917 discovered The Stimulated Emission of Radiation, also known as the foundation for lasers. It's not like he was thinking, Barcodes!! Tattoo removal!
--Who leads the world-people who invest in STEM
