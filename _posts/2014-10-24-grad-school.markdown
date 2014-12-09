@@ -9,7 +9,7 @@ tags: Life
 ---
 Why? It's the toughest of the 6 interrogative words, but it's the most important one to understand. The answer, whether realistic or not, provides a backbone to all difficult life decisions. It's the one answer that you can firmly stand your ground with. And it's the answer that ultimately makes up your mind.  
 
-With that in mind, don't simply ask that question of the world around you, but of yourself. And do it frequently. This is the story that brought me to Designli.  
+In light of this, don't simply ask that question of the world around you, but of yourself. And do it frequently. This is the story that brought me to Designli.  
 
 I've always enjoyed learning. Building, tinkering, and rebuilding. That's what defined me as a young kid. Engineering always seemed to be a natural blend of everything that was fun for me, so I came to Ohio State to pursue a degree as a mechanical engineer. Ohio State has one of the _coolest_ first year programs for nerdy engineers. For 6 months, they submerge you into the world of engineering design. A rapid learning environment with a lesson in drafting, CAD, C++ programming, data analysis in MATLAB, report creation, circuit design, proper testing procedures, and experimentation. Come spring quarter, this all culminated into the annual robot design challenge, which is essentially a quest to build the most badass robot that could [autonomously navigate](https://www.youtube.com/watch?v=E4sgyj9rT7g) a course through a crafty blend of obstacles. I loved it. 
 
@@ -37,7 +37,7 @@ You do get to pick your own schedule! Take any given day and choose which 14 hou
 
 Well, yeah. You may be at the top of the leadership chain, but you can never avoid the feeling of someone telling you what to do. Whether it is your customer, your employees, your investors, or your mom...there will be someone telling you that you are wrong and that you need to do better. 
 
-More importantly, I want to share why I have decided to ignore the typical career path with an aerospace degree and work at a startup
+More importantly, I want to share why I have decided to ignore the typical career path with an aerospace degree and work at a startup:
 
 ## _1. The product_
 
@@ -49,7 +49,7 @@ When you work at a company with 100,000+ employees under it's belt, it's only na
 
 ## _3. The people_
 
-There is something about entrepreneurs. An intangible, unexplainable passion for what they do and how they are going to get it done. How they are going change the world. Back in the fall, the Designli team took a visit down to Greenville, South Carolina to find a place to set-up shop and it was the first time everyone was in the same room. The conversations between these friends were no longer about sports or getting drunk at a bar, but about how the world will look in 20 years and where we will be. These are the visionaries that I want to be around. The real **movers and shakers**.
+There is something about entrepreneurs. An intangible, unexplainable passion for what they do and how they are going to get it done. How they are going to change the world. Back in the fall, the Designli team took a visit down to Greenville, South Carolina to find a place to set-up shop and it was the first time everyone was in the same room. The conversations between these friends were no longer about sports or getting drunk at a bar, but about how the world will look in 20 years and where we will be. These are the visionaries that I want to be around. The real **movers and shakers**.
 
 ## Remember...
 
