@@ -7,7 +7,6 @@ categories: blog update
 heading_image: /images/posts/grad1.jpeg
 tags: Life
 ---
-
 Why? It's the toughest of the 6 interrogative words, but it's the most important one to understand. The answer, whether realistic or not, provides a backbone to all difficult life decisions. It's the one answer that you can firmly stand your ground with. And it's the answer that ultimately makes up your mind.  
 
 In light of this, don't simply ask that question of the world around you, but of yourself. And do it frequently. This is the story that brought me to Designli.  
@@ -59,8 +58,5 @@ Always ask why. It's your backbone. I'll leave you with this quote.
 > _"If you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it.
 -Frank Zappa"_
 
-.p{
-	margin: 0 0 25px;
-	font-size: 24px;
-}
+
 
