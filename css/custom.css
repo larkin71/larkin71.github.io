@@ -393,5 +393,5 @@ input[type=email]:focus, textarea:focus {
   margin-bottom: 25px;
 }
 .post-content h1 h2 h3 h4 {
-  text-decoration: bold;
+  font-weight: bold;
 }
