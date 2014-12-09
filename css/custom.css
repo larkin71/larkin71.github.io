@@ -365,6 +365,7 @@ a.text-link{
 }
 .post-content{
   margin-bottom: 100px;
+  font-size: 24px;
 }
 .post-heading-img{
   margin-bottom: 50px;
@@ -387,4 +388,7 @@ input[type=email]:focus, textarea:focus {
   transition:background-color 0.4s;
   background-color: #346ea9;
   color: white;
+}
+.post-content p{
+  margin-bottom: 20px;
 }
