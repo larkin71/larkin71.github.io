@@ -19,15 +19,8 @@ layout: default
           <h1 class="text-center">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h1>
-          <h4 class="text-center post-date">{{ post.date | date: "%B %e, %Y" }}</h4><br>
-          {% if post.heading_image %}<img src="{{ post.heading_image }}" class="post-heading-img">{% endif %}
-  	    	{{ post.excerpt }}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-          <br><br>
-          <div class="text-center"><p><span class="glyphicon glyphicon-pencil"></span>{% if post.author %} {{ post.author }}{% endif %}  | {{ post.tags }}</p></div>
-          <hr class="featurette-divider">
         </div>
       </div>
-      {% endfor %}
 
       <!-- Mailing List Form -->
       <div class="col-md-4"></div>
