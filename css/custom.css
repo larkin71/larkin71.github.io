@@ -410,7 +410,10 @@ input[type=email]:focus, textarea:focus {
 }
 .photo-blog{
   max-width: 100%;
-  max-height: 100%;
+}
+.photo-blog-v{
+  max-width: 60%;
+  text-align: center;
 }
 .photo-spot{
   margin-top: 150px;
