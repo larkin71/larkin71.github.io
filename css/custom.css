@@ -413,11 +413,11 @@ input[type=email]:focus, textarea:focus {
 }
 .photo-blog-v{
   max-width: 60%;
-  text-align: center;
 }
 .photo-spot{
   margin-top: 150px;
   margin-bottom: 50px;
+  text-align: center;
 }
 .photo-caption{
   font-style: italic;
