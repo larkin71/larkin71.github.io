@@ -13,15 +13,19 @@ So why do we get college degrees? What is the relevance of what you study and th
 
 I am not suggesting that a college degree is not worth anything, far from it. The breadth of learning that can be accomplished while in school is incredible. Formal education is hugely important. Trust me, I don't want a college-dropout surgeon who decided that medicine school "wasn't for him" to operate on me. What I am suggesting is that there are distinctly different learning paths and both should be explored in depth. Learn new skills that you may not learn in school and not only because it may help you land a sweet new job, but because you will become a more well-rounded and intersting person. 
 
-I encourage you join me on a journey this year. A journey of learning, but not in the typical sense. Harness that inner curiosity that you typically silence for a fear or embaressment or failure. Let's try a different type of learning. 
+I encourage you join me on a journey this year. A journey of learning, but not in the typical sense. Harness that inner curiosity that you typically silence for a fear of embaressment or failure. Let's try a different type of learning. 
 
 ### _Unschooling Yourself_
 
 Unschooling yourself is more a change in mentality. An eagerness to learn outside of the classroom or workplace. I share with you some suggestions that I believe may aid you in this process. Whether you are out of school or still in school, these suggestions will still apply.
 
-## _1. Brag about your mistakes_
+## _1. "I wish I could..."
 
 
+
+## _2. Brag about your mistakes_
+
+Vulnerability is a natural fear of all humans. If you don't believe me, a much smarter lady named Brené Brown can explain with [her TED talk.](http://www.ted.com/talks/brene_brown_on_vulnerability?language=en) 
 
 I can't stress this enough. 
 -Continuously reading - Finding favorite blogs to follow, actually reading articles that you stumble upon on the web. Use the internet productively
