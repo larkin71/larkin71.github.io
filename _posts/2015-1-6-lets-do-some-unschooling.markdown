@@ -40,9 +40,10 @@ I can't stress this enough. Books, magazines, blogs, Twitter feeds, newspapers, 
 ## _5. Write about it_
 
 Throughout this journey, you should practice writing about your experiences. I began writing once a month about three things:
--What went right last month
--What went wrong last month
--What I learned
+
+* What went right last month
+* What went wrong last month
+* What I learned
 
 Make this writing a habitual part of your life and it will hold you accountable to keep expanding your horizons. I find myself wanting to explore new things almost because I know I will have nothing to write about unless I do so. It's  
 
