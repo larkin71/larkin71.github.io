@@ -105,7 +105,8 @@ At this point you may be exhausted of pitching your app, but now is your time to
  
 If you've made it this far, you've completed something a surprisingly few have, despite the staggering statistics at the beginning. Be proud of yourself. And then continue marketing your product and providing outstanding customer service like your life depends on it!
 
- 
+> _"I have not failed. I’ve just found 10,000 ways that won’t work.
+-Thomas Edison"_
 
  
 
