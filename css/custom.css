@@ -422,3 +422,7 @@ input[type=email]:focus, textarea:focus {
 .photo-caption{
   font-style: italic;
 }
+
+.calendar{
+  background-color: transparent !important;
+}
