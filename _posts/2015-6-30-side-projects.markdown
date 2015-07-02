@@ -64,6 +64,7 @@ At Designli, we fully embrace side projects. First and foremost, we are an app d
 A good start is to block off a portion of the work week and give your employees creative freedom. Let them work on something that has been bugging them for weeks. An irking frustration that they want to solve.
 
 ### 1. Make sure to not assign value to any project over another. Each employee has the need to express their own abilities and explore uncharted grounds for themselves. Do not attempt to measure this with any data.
+
 ### 2. Allow projects to be on-going. If the crowd agrees that a project is exciting, let it keep going. Give them more time to work on it and possibly a small budget of funds to play around with.
 
 These two acts will display your level of trust and remove fear at the exact same time. Both imperative for a successful “side-project” culture. Have any questions or advice for generating cooler side projects? Let us know!
