@@ -334,7 +334,7 @@ footer{
     margin-top: 35px;
   }
 }
-@media (min-width: 700px){
+@media (min-width: 1000px){
   .footer-space{
     margin-top: 100px;
   }
