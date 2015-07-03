@@ -105,13 +105,9 @@ body {
   background-color:#346ea9; 
   margin-left:-1000px; 
   margin-right:-1000px;
+  color: white;
 }
-.top-band-bar{
-  margin-bottom: 0px;
-}
-.bot-band-bar{
-  margin-top: 0px;
-}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
