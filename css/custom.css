@@ -107,6 +107,8 @@ body {
   margin-right:-1000px;
   color: white;
   min-height: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 /* RESPONSIVE CSS
