@@ -318,17 +318,17 @@ footer{
   background-repeat: no-repeat;
   background-size: 100%;
 }
-@media (max-width: 700px) {
+@media (min-width: 700px) and (max-width: 1000px) {
   footer {
-    background-image: url(../images/wood_sm.png);
+    background-image: url(../images/wood-m.png);
   }
   .footer-space{
     margin-top: 35px;
   }
 }
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   footer {
-    background-image: url(../images/wood-m.png);
+    background-image: url(../images/wood_sm.png);
   }
   .footer-space{
     margin-top: 35px;
