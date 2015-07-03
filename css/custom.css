@@ -326,6 +326,14 @@ footer{
     margin-top: 35px;
   }
 }
+@media (max-width: 900px) {
+  footer {
+    background-image: url(../images/wood-m.png);
+  }
+  .footer-space{
+    margin-top: 35px;
+  }
+}
 @media (min-width: 700px){
   .footer-space{
     margin-top: 100px;
