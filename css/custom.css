@@ -318,7 +318,7 @@ footer{
   background-repeat: no-repeat;
   background-size: 100%;
 }
-@media (min-width: 700px) and (max-width: 1000px) {
+@media (min-width: 701px) and (max-width: 1000px) {
   footer {
     background-image: url(../images/wood-m.png);
   }
