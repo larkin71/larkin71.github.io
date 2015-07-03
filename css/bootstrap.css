@@ -45,7 +45,6 @@ template {
 }
 a {
   background: transparent;
-  text-decoration: underline;
 }
 a:active,
 a:hover {
@@ -291,7 +290,7 @@ textarea {
 }
 a {
   color: #333;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover,
 a:focus {
