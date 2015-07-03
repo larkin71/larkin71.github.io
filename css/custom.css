@@ -107,8 +107,12 @@ body {
   margin-right:-1000px;
   color: white;
   min-height: 100px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 65px;
+  margin-bottom: 65px;
+}
+hr.band{
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 /* RESPONSIVE CSS
