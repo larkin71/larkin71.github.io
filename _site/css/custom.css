@@ -468,7 +468,7 @@ ul.goals > li{
   margin-left: auto;
   margin-right: auto;
   display: block;
-  transition-duration:1.5s;
+  transition-duration:2s;
 }
 .intro-pic img.left{
   margin-top: -385px;

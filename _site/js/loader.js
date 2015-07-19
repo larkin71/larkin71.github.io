@@ -5,6 +5,6 @@ $(document).ready(function () {
         percentage: true,
         barHeight: 5,
         completeAnimation: "grow",
-        minimumTime: 10
+        minimumTime: 250
     });
 });
