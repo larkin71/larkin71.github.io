@@ -9,7 +9,12 @@ loading: true
     <br class="visible-xs">
     <div class="container container-fluid">
         <div class="row">
-          <div class="col-lg-12"><img src="images/personalheader_new-min.png" class="img-center img-responsive" width="65%"></div>
+          <div class="col-lg-12 hidden-lg"><img src="images/personalheader_new-min.png" class="img-center img-responsive" width="65%"></div>
+          <div class="hidden-xs hidden-sm hidden-md">
+            <div class="col-lg-12" style="z-index:10;"><img src="images/personalheader_center.png" style="z-index:10;" class="img-center img-responsive" width="25%"></div>
+            <div class="col-lg-12" id="moveleft" style="position:absolute;"><img src="images/personalheader_woods.png" class="img-center img-responsive" style="height:385px;"></div>
+            <div class="col-lg-12" id="moveright" style="position:absolute;"><img src="images/personalheader_city.png" class="img-center img-responsive" style="height:385px;"></div>
+          </div>
           <div class="col-lg-12">
             <div class="btn-group-header">
               <button class="btn btn-lg btn-header hidden-xs">Engineer by study  / /  Explorer by habit</button>
@@ -69,7 +74,7 @@ loading: true
             <li class="list-group-item"><span class="badge done">1/1</span>Launch Larkin Labs</li>
             <li class="list-group-item"><span class="badge">0/1</span>Finish a technical project for a client</li>
             <li class="list-group-item"><span class="badge done">1/1</span>Master personal accounting</li>
-            <li class="list-group-item"><span class="badge done">0/1</span>Get something on Product Hunt</li>
+            <li class="list-group-item"><span class="badge">0/1</span>Get something on Product Hunt</li>
           </ul>
         </div>
       </div>

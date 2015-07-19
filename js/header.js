@@ -1,10 +1,18 @@
-window.addEventListener('DOMContentLoaded', function() {
-    $("body").queryLoader2({
-    	barColor: "#f5f6f0",
-        backgroundColor: "#5a5a5a",
-        percentage: true,
-        barHeight: 5,
-        completeAnimation: "grow",
-        minimumTime: 10
-    });
+$(document).ready(function(e) {
+    width = "+=" + 200;
+    $("#moveleft").animate({
+    right: width
+  }, 1000, function() {
+    // Animation complete.
+  });
 });
+
+$(document).ready(function(e) {
+    width = "+=" + 200;
+    $("#moveright").animate({
+    left: width
+  }, 1000, function() {
+    // Animation complete.
+  });
+});
+

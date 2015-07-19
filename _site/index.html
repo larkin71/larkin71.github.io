@@ -13,6 +13,7 @@
     <link rel="shortcut icon" href="/images/Personal_Logo_Icon.ico">
     <title>Jake Larkin</title>
     <script src="/js/jquery.min.js"></script>
+    <script src="/js/header.js"></script>
     <script src="/js/jquery.queryloader2.js" type="text/javascript"></script>
     <!--<script src="/js/loader.js"></script>-->
     <link href="/css/bootstrap.css" rel="stylesheet">
@@ -45,7 +46,7 @@
                 <span class="sr-only">Toggle Navigation</span>
                 <span class="glyphicon glyphicon-list"></span>
               </button>
-              <a class="navbar-brand" href="/#" style="padding-top:5px; text-decoration: none;"><img src="/images/pers_logo_dark.png" height="35px" id="logo" onmouseover="this.src='/images/pers_logo_dark_hover.png';" onmouseout="this.src='/images/pers_logo_dark.png';"> Jake Larkin</a>
+              <a class="navbar-brand" href="/#" style="padding-top:5px; text-decoration: none;color:#5a5a5a;"><img src="/images/pers_logo_dark.png" height="35px" id="logo" onmouseover="this.src='/images/pers_logo_dark_hover.png';" onmouseout="this.src='/images/pers_logo_dark.png';"> Jake Larkin</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav nav-pills navbar-right">
@@ -73,7 +74,12 @@
     <br class="visible-xs">
     <div class="container container-fluid">
         <div class="row">
-          <div class="col-lg-12"><img src="images/personalheader_new-min.png" class="img-center img-responsive" width="65%"></div>
+          <div class="col-lg-12 hidden-lg"><img src="images/personalheader_new-min.png" class="img-center img-responsive" width="65%"></div>
+          <div class="hidden-xs hidden-sm hidden-md">
+            <div class="col-lg-12" style="z-index:10;"><img src="images/personalheader_center.png" style="z-index:10;" class="img-center img-responsive" width="25%"></div>
+            <div class="col-lg-12" id="moveleft" style="position:absolute;"><img src="images/personalheader_woods.png" class="img-center img-responsive" style="height:385px;"></div>
+            <div class="col-lg-12" id="moveright" style="position:absolute;"><img src="images/personalheader_city.png" class="img-center img-responsive" style="height:385px;"></div>
+          </div>
           <div class="col-lg-12">
             <div class="btn-group-header">
               <button class="btn btn-lg btn-header hidden-xs">Engineer by study  / /  Explorer by habit</button>
@@ -133,7 +139,7 @@
             <li class="list-group-item"><span class="badge done">1/1</span>Launch Larkin Labs</li>
             <li class="list-group-item"><span class="badge">0/1</span>Finish a technical project for a client</li>
             <li class="list-group-item"><span class="badge done">1/1</span>Master personal accounting</li>
-            <li class="list-group-item"><span class="badge done">0/1</span>Get something on Product Hunt</li>
+            <li class="list-group-item"><span class="badge">0/1</span>Get something on Product Hunt</li>
           </ul>
         </div>
       </div>
