@@ -3567,6 +3567,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-pills > li > a {
   border-radius: 4px;
+  text-decoration: none;
 }
 .nav-pills > li + li {
   margin-left: 2px;
@@ -3576,6 +3577,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:focus {
   color: #fff;
   background-color: #346ea9;
+  text-decoration: none;
 }
 .nav-stacked > li {
   float: none;
@@ -4328,7 +4330,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .label-danger[href]:focus {
   background-color: #c9302c;
 }
-.badge {
+.badge{
   display: inline-block;
   min-width: 10px;
   padding: 3px 7px;

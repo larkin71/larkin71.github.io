@@ -446,3 +446,17 @@ input[type=email]:focus, textarea:focus {
 .calendar{
   background-color: transparent !important;
 }
+
+ul.goals > li{
+  background-color: #f5f5f5;
+}
+.goals-box{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.badge{
+  font-family: 'Proxima Nova', sans-serif
+}
+.done {
+  background-color: #169e26;
+}

@@ -290,7 +290,7 @@ textarea {
 }
 a {
   color: #333;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover,
 a:focus {
@@ -634,7 +634,7 @@ blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
   font-size: 17.5px;
-  border-left: 5px solid #eee;
+  border-left: 5px solid #346ea9;
 }
 blockquote p:last-child,
 blockquote ul:last-child,
@@ -659,7 +659,7 @@ blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
   text-align: right;
-  border-right: 5px solid #eee;
+  border-right: 5px solid #346ea9;
   border-left: 0;
 }
 .blockquote-reverse footer:before,
@@ -3567,6 +3567,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-pills > li > a {
   border-radius: 4px;
+  text-decoration: none;
 }
 .nav-pills > li + li {
   margin-left: 2px;
@@ -3576,6 +3577,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:focus {
   color: #fff;
   background-color: #346ea9;
+  text-decoration: none;
 }
 .nav-stacked > li {
   float: none;
@@ -4328,7 +4330,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .label-danger[href]:focus {
   background-color: #c9302c;
 }
-.badge {
+.badge{
   display: inline-block;
   min-width: 10px;
   padding: 3px 7px;
