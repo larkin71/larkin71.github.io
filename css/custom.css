@@ -460,4 +460,25 @@ ul.goals > li{
 .done {
   background-color: #169e26;
 }
-
+.intro-pic{
+  height: 385px;
+}
+.intro-pic img {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transition-duration:1.5s;
+}
+.intro-pic img.left{
+  margin-top: -385px;
+}
+.intro-pic img.right{
+  margin-top: -385px;
+}
+.intro-pic.translated .left{
+   transform:translateX(-200px);
+}
+.intro-pic.translated .right{
+   transform:translateX(200px);
+}
