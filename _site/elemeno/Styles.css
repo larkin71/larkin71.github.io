@@ -1,0 +1,178 @@
+@charset "UTF-8";
+/* CSS Document */
+/*  PhotoBanner  */
+#container {
+    width: 740px;
+    overflow: hidden;
+	margin:10px auto;
+    background: white;
+}
+ 
+.photobanner {
+    height: 354px;
+    width: 5550px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
+
+.first {
+    -webkit-animation: bannermove 150s linear infinite;
+       -moz-animation: bannermove 150s linear infinite;
+        -ms-animation: bannermove 150s linear infinite;
+         -o-animation: bannermove 150s linear infinite;
+            animation: bannermove 150s linear infinite;
+}
+ 
+@keyframes "bannermove" {
+ 0% {
+    margin-left: 0px;
+ }
+ 100% {
+    margin-left: -3125px;
+ }
+ 
+}
+ 
+@-moz-keyframes bannermove {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -3125px;
+ }
+ 
+}
+ 
+@-webkit-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -3125px;
+ }
+ 
+}
+ 
+@-ms-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -3125px;
+ }
+ 
+}
+ 
+@-o-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: -3125px;
+ }
+ 
+}
+ 
+.photobanner img {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+ 
+.photobanner img:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    cursor: pointer;
+ 
+    -webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+}
+
+/*  End of banner  */
+
+
+A{
+text-decoration:none;
+}
+body{
+	background-color:#FFFFFF;
+}
+table.leftbuttons {
+	position:absolute;
+	top:275px;
+	border:0;
+	text-align:right;
+	line-height:38px;
+	font-style:italic;
+	color:#999999;
+	
+	
+}
+table.verticalline{
+	position:absolute;
+	left:32%;
+	top:263px;
+}
+table.foot1{
+	position:absolute;
+	left:0%;
+	text-align:right;
+}
+table.foot2{
+	position:absolute;
+	right:24%;
+	
+}
+td.Content {
+	color:#AC553C;
+	font-size:14px;
+	text-align:justify;
+	vertical-align:top;
+	
+}
+table.TopOfPage{
+	width:1000px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	font-size:18px;
+	top:0px;
+	
+}
+table.center{
+	margin-left:auto;
+	margin-right:auto;
+}
+div.links{
+	text-indent:760px;
+	width:1000px;
+	height:19px;
+	margin-right:auto;
+	margin-left:auto;
+	z-index:3;
+}
+table.blogger{
+	margin-left:auto;
+	margin-right:auto;
+	padding:13px;
+	background-repeat:no-repeat;
+}
+img.links{
+	position:relative;
+	z-index:3;
+	
+}
+div.purchase{
+	padding-top:6px;
+	padding-bottom:6px;
+	padding-right:3px;
+	padding-left:3px;
+}
