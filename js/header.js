@@ -20,5 +20,5 @@ $(function() {
 	setTimeout(function(){
 		$("#intropic").addClass("translated"); 
 
-	},1500); 
+	},1000); 
 });
