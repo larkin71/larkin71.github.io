@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "Fixing Bad Habits: Sleep Schedule"
 author: "Jake Larkin"
 date:   2015-11-15 16:33:39
