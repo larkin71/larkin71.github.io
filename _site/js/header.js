@@ -16,4 +16,9 @@
 //   });
 // });
 
-$(function() { $("#intropic").addClass("translated"); });
+$(function() { 
+	setTimeout(function(){
+		$("#intropic").addClass("translated"); 
+
+	},1000); 
+});
