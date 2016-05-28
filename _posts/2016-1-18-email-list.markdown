@@ -5,13 +5,14 @@ author: "Jake Larkin"
 date:   2016-1-18 20:33:39
 categories: blog update
 heading_image: /images/posts/email-list.png
-tags: Startups
+tags: Life
 ---
 Your inbox. It can be a point of anxiety or your best friend, it’s all about managing what comes in and out of it. For the past 6 months, I’ve been operating at Inbox Zero and it is my number one productivity “hack.”
 One piece of this strategy is being diligent about who I give the right to email me. That means, when checking out at the mall, always saying ‘no’ to ‘would you like emailed coupons?’ and instantly unsubscribing to newsletters that don’t benefit either me personally or my business. I like to keep an up-to-date list with the newsletters that I am subscribed to and want to share that with you.
 
 
 ## 18 of My Favorites For Learning
+
 1. Tim Ferris 5-Bullet Friday — A weekly email from Tim (yeah, we’re first name basis, in my head) of what he’s listening to, thinking about, using lately. [Weekly]
 
 2. Medium Daily Digest — Every morning, a roundup of articles written by people I follow on Twitter (or Medium) and recommendations from Medium. Incredible. [Daily]
